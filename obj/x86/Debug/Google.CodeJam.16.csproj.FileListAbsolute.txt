@@ -1,0 +1,8 @@
+C:\git\Google.CodeJam.16\bin\Debug\Google.CodeJam.16.exe.config
+C:\git\Google.CodeJam.16\bin\Debug\Google.CodeJam.16.exe
+C:\git\Google.CodeJam.16\bin\Debug\Google.CodeJam.16.pdb
+C:\git\Google.CodeJam.16\obj\x86\Debug\Google.CodeJam.16.csproj.AssemblyReference.cache
+C:\git\Google.CodeJam.16\obj\x86\Debug\Google.CodeJam.16.csproj.SuggestedBindingRedirects.cache
+C:\git\Google.CodeJam.16\obj\x86\Debug\Google.CodeJam.16.csproj.CoreCompileInputs.cache
+C:\git\Google.CodeJam.16\obj\x86\Debug\Google.CodeJam.16.exe
+C:\git\Google.CodeJam.16\obj\x86\Debug\Google.CodeJam.16.pdb
